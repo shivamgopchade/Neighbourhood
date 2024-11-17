@@ -35,4 +35,7 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
+# firebase init
+firebase/init.js
+
 app-example
